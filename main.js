@@ -63,8 +63,9 @@ function hgame(){
             }
         }
         
-        if (turns===8){
+        if (turns===9){
             alert("Tie");
+            resetb();
         }
     }
     
